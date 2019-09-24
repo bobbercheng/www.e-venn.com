@@ -39,7 +39,7 @@
   }
   
   function insertMsg1() {
-    insertText("Hello World!");
+    insertText("To join UMX meeting, click here:  https://umx.uat.iconf.net/?confcode=2554410101");
   }
   
   function insertMsg2() {
