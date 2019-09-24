@@ -37,7 +37,7 @@ function addDefaultMsgToBody(event) {
 }
 
 function addMsg1ToBody(event) {
-  addTextToBody("Hello World!", "red-icon-16", event);
+  addTextToBody("To join UMX meeting, click here:  https://umx.uat.iconf.net/?confcode=2554410101", "red-icon-16", event);
 }
 
 function addMsg2ToBody(event) {
