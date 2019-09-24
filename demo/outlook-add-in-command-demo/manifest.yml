@@ -1,0 +1,6 @@
+applications:
+  - name: dev-umx-scheduler
+    instances: 1
+    memory: 64M
+    buildpacks:
+      - staticfile_buildpack
